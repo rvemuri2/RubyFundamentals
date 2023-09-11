@@ -72,4 +72,5 @@ a = {name: "Cooper"}
 b = {"name" => "Chris"}
 
 puts a[:name]
-puts b["name"]
+puts b["name"] 
+
